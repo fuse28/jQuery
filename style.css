@@ -1,0 +1,9 @@
+body {
+  background-color: white;
+  color: black;
+}
+.title {
+  font-size: larger;
+  color: brown;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
